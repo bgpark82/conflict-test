@@ -8,5 +8,5 @@ class KotlinSpringMysqlDemoApplication
 
 fun main(args: Array<String>) {
     runApplication<KotlinSpringMysqlDemoApplication>(*args)
-    println("B")
+    println("4")
 }
